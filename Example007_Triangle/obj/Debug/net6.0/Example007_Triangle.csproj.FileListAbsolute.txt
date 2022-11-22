@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Документы\GeekBrains\ProgrammingLanguages\Lectures\Examples\Example007_Triangle\bin\Debug\net6.0\Example007_Triangle.exe
+C:\Users\User\OneDrive\Документы\GeekBrains\ProgrammingLanguages\Lectures\Examples\Example007_Triangle\bin\Debug\net6.0\Example007_Triangle.deps.json
+C:\Users\User\OneDrive\Документы\GeekBrains\ProgrammingLanguages\Lectures\Examples\Example007_Triangle\bin\Debug\net6.0\Example007_Triangle.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\GeekBrains\ProgrammingLanguages\Lectures\Examples\Example007_Triangle\bin\Debug\net6.0\Example007_Triangle.dll
+C:\Users\User\OneDrive\Документы\GeekBrains\ProgrammingLanguages\Lectures\Examples\Example007_Triangle\bin\Debug\net6.0\Example007_Triangle.pdb
+C:\Users\User\OneDrive\Документы\GeekBrains\ProgrammingLanguages\Lectures\Examples\Example007_Triangle\obj\Debug\net6.0\Example007_Triangle.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\GeekBrains\ProgrammingLanguages\Lectures\Examples\Example007_Triangle\obj\Debug\net6.0\Example007_Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\GeekBrains\ProgrammingLanguages\Lectures\Examples\Example007_Triangle\obj\Debug\net6.0\Example007_Triangle.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\GeekBrains\ProgrammingLanguages\Lectures\Examples\Example007_Triangle\obj\Debug\net6.0\Example007_Triangle.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\GeekBrains\ProgrammingLanguages\Lectures\Examples\Example007_Triangle\obj\Debug\net6.0\Example007_Triangle.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\GeekBrains\ProgrammingLanguages\Lectures\Examples\Example007_Triangle\obj\Debug\net6.0\Example007_Triangle.dll
+C:\Users\User\OneDrive\Документы\GeekBrains\ProgrammingLanguages\Lectures\Examples\Example007_Triangle\obj\Debug\net6.0\refint\Example007_Triangle.dll
+C:\Users\User\OneDrive\Документы\GeekBrains\ProgrammingLanguages\Lectures\Examples\Example007_Triangle\obj\Debug\net6.0\Example007_Triangle.pdb
+C:\Users\User\OneDrive\Документы\GeekBrains\ProgrammingLanguages\Lectures\Examples\Example007_Triangle\obj\Debug\net6.0\Example007_Triangle.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\GeekBrains\ProgrammingLanguages\Lectures\Examples\Example007_Triangle\obj\Debug\net6.0\ref\Example007_Triangle.dll
