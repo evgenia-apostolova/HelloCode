@@ -67,7 +67,7 @@ for (int i = 0; i <count; i++)
 string res = Method4(10, "z");
 Console.WriteLine(res);
 */
-
+/*
 // Cycle inside cycle
 //Таблица умножения
 
@@ -79,3 +79,42 @@ for (int i = 2; i <= 10; i++)
     }
     Console.WriteLine();
 }
+*/
+
+//Задача Упорядочить массив
+//Алгоритм сортировки методом выбора или методом min-max
+
+int[] arr = { 1, 5, 4, 3, 2, 6, 7, 1, 1 };
+
+void PrintArray(int[] array)
+{
+    int count = array.Length;
+
+    for (int i = 0; i < count; i++)
+    {
+        Console.Write($"{array[1]} ");
+    }
+    Console.WriteLine();
+}
+
+void SelectionSort(int[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        int minPosition = i;
+
+        for (int j = i + 1; j < array.Length - 1; j++) 
+        {
+            if (array[j] < array[minPosition]) minPosition = j;
+        }
+        int temporary = array[i];
+        array[i] = array[minPosition];
+        array[minPosition] = temporary;
+        Console.Write($"{array[1]} ");
+    }
+}
+
+PrintArray(arr);
+SelectionSort(arr);
+
+PrintArray(arr);
