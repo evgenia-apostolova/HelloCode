@@ -36,11 +36,10 @@ int year = Method3();
 Console.WriteLine(year);
 
 // Type 4
-string Method4(int count, string c)
+string Method4(int count, string text)
 {
     int i = 0;
     string result = "";
-    for ( int i = 0; i < count; i++)
     while (int i < count)
     {
         result = result + text;
