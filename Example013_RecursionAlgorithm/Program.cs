@@ -1,11 +1,9 @@
-﻿
-string[,] table = new string[2, 5];
+﻿string[,] table = new string[2, 5];
 //String.Empty
 // table[0,0]   table[0,1]  tasble[0,2] table [0,4]
 
 /*
 table[1, 2] = "word";
-
 for (int rows = 0; rows < 2; rows++)
 {
     for (int columns = 0; columns < 5; columns++)
@@ -46,3 +44,30 @@ FillArray(matrix);
 Console.WriteLine();
 PrintArray(matrix);
 
+int Factorial (int n)
+{
+    // 1! = 1
+    // 0! = 1
+    if (n == 1) return 1;
+    else return n * Factorial(n-1);
+}
+for (int i = 1; i < 40; i++)
+{
+//Console.WriteLine(Factorial(3));// 1*2*3 = 6);
+    Console.WriteLine($"{i}! = {Factorial(i)}");
+}
+
+// Fibonacci
+// f(1) = 1
+// f(2) = 1
+// f(n) = f(n-1) + f(n-2)
+
+int Fibonacci(int n)
+{
+    if(n == 1 || n == 2) return 1;
+    else Fibonacci(n-1) + Fibonacci(n-2)
+}
+for (int i = 1; i < 10; i++)
+{
+    Console.WriteLine(Fibonacci(i));
+}
